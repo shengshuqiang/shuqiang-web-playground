@@ -1,0 +1,39 @@
+<html>
+<title>书强号</title>
+
+<body>
+    <h1>大家好，<br>欢迎大驾光临“书强号”</h1>
+    <!-- 显示网络请求响应信息 -->
+    <div id="resDesc"></div>
+    <script>
+        console.log("大家好，欢迎大驾光临“书强号”");
+        // 发送网络请求代码
+        const xhr = new XMLHttpRequest();
+        // 线上域名
+        // const url = "http://sheng.shuqiang.com/hello.json";
+        // 本地域名
+        // const url = "http://localhost:3000/hello.json";
+        const url = "http://127.0.0.1:3000/hello.json";
+        xhr.open('GET', url);
+        xhr.onreadystatechange = function () {
+            // const { readyState, status, statusText, responseText, responseURL } = xhr;
+            // console.log(`数据返回: ${JSON.stringify({ readyState, status, statusText, responseText, responseURL })}`, xhr);
+            const resDescElement = document.getElementById("resDesc");
+            if (xhr.readyState == 4) {
+                let resDesc, resDescStyle;
+                if (xhr.status >= 200) {
+                    resDesc = `数据返回成功：${xhr.responseText}`;
+                    resDescStyle = "color: green;"
+                } else {
+                    resDesc = `数据返回失败`;
+                    resDescStyle = "color: red;"
+                }
+                resDescElement.innerHTML = resDesc;
+                resDescElement.style = resDescStyle;
+            }
+        }
+        xhr.send();
+    </script>
+</body>
+
+</html>
