@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Unicode 字符表</title>
+    <style>
+    </style>
+</head>
+
+<body>
+    <h1>Unicode 字符表</h1>
+    <div id="unicode-table">
+    </div>
+    <script>
+        function injectElement(text) {
+            const parentElement = document.getElementById("unicode-table");
+            parentElement.innerHTML = text;
+        };
+        (function () {
+            let text = '';
+            const Max = 0xFFFFFF;
+            for (let index = 0; index <= Max; index++) {
+                text += `&#x${index.toString(16).padStart(4, '0')};`;
+            }
+            console.log(text);
+            injectElement(text);
+        })();
+    </script>
+</body>
+
+</html>
