@@ -1,0 +1,156 @@
+{
+  "id": "3810234",
+  "name": "ssu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33440086",
+      "name": "shan",
+      "font_class": "shan",
+      "unicode": "5c71",
+      "unicode_decimal": 23665
+    },
+    {
+      "icon_id": "33439543",
+      "name": "he",
+      "font_class": "he",
+      "unicode": "79be",
+      "unicode_decimal": 31166
+    },
+    {
+      "icon_id": "33439544",
+      "name": "huo",
+      "font_class": "huo",
+      "unicode": "706b",
+      "unicode_decimal": 28779
+    },
+    {
+      "icon_id": "33439545",
+      "name": "ren",
+      "font_class": "ren",
+      "unicode": "4eba",
+      "unicode_decimal": 20154
+    },
+    {
+      "icon_id": "33439546",
+      "name": "mu",
+      "font_class": "mu",
+      "unicode": "6728",
+      "unicode_decimal": 26408
+    },
+    {
+      "icon_id": "33439547",
+      "name": "niu",
+      "font_class": "niu",
+      "unicode": "725b",
+      "unicode_decimal": 29275
+    },
+    {
+      "icon_id": "33439548",
+      "name": "ma",
+      "font_class": "ma",
+      "unicode": "9a6c",
+      "unicode_decimal": 39532
+    },
+    {
+      "icon_id": "33439549",
+      "name": "mumu",
+      "font_class": "mumu",
+      "unicode": "76ee",
+      "unicode_decimal": 30446
+    },
+    {
+      "icon_id": "33439550",
+      "name": "ri",
+      "font_class": "ri",
+      "unicode": "65e5",
+      "unicode_decimal": 26085
+    },
+    {
+      "icon_id": "33439551",
+      "name": "yue",
+      "font_class": "yue",
+      "unicode": "6708",
+      "unicode_decimal": 26376
+    },
+    {
+      "icon_id": "33439552",
+      "name": "tian",
+      "font_class": "tian",
+      "unicode": "7530",
+      "unicode_decimal": 30000
+    },
+    {
+      "icon_id": "33439553",
+      "name": "yang",
+      "font_class": "yang",
+      "unicode": "7f8a",
+      "unicode_decimal": 32650
+    },
+    {
+      "icon_id": "33439554",
+      "name": "shi",
+      "font_class": "shi",
+      "unicode": "77f3",
+      "unicode_decimal": 30707
+    },
+    {
+      "icon_id": "33439555",
+      "name": "zhou",
+      "font_class": "zhou",
+      "unicode": "821f",
+      "unicode_decimal": 33311
+    },
+    {
+      "icon_id": "33439556",
+      "name": "niao",
+      "font_class": "niao",
+      "unicode": "9e1f",
+      "unicode_decimal": 40479
+    },
+    {
+      "icon_id": "33439557",
+      "name": "wang",
+      "font_class": "wang",
+      "unicode": "7f51",
+      "unicode_decimal": 32593
+    },
+    {
+      "icon_id": "33439558",
+      "name": "shui",
+      "font_class": "shui",
+      "unicode": "6c34",
+      "unicode_decimal": 27700
+    },
+    {
+      "icon_id": "33439559",
+      "name": "zhu",
+      "font_class": "zhu",
+      "unicode": "7af9",
+      "unicode_decimal": 31481
+    },
+    {
+      "icon_id": "33439560",
+      "name": "yu",
+      "font_class": "yu",
+      "unicode": "9c7c",
+      "unicode_decimal": 40060
+    },
+    {
+      "icon_id": "33439860",
+      "name": "ssu",
+      "font_class": "ssu",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "33439861",
+      "name": "sheng",
+      "font_class": "sheng",
+      "unicode": "76db",
+      "unicode_decimal": 30427
+    }
+  ]
+}

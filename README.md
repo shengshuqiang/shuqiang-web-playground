@@ -3,15 +3,15 @@
 
 # H5ServerDemo
 
-[从手写到 ADB 配合 Whistle 捣鼓前后端极度舒适的调试环境](https://juejin.cn/post/7172575173961334797) 文章 Demo 演示代码
+[从手写到 ADB 配合 Whistle 捣鼓前后端极度舒适的调试环境](https://juejin.cn/post/7172575173961334797) 文章 [Demo 演示代码](https://github.com/shengshuqiang/shuqiang-web-playground/tree/main/H5ServerDemo)
 
 # pddwyb
 
-直接从网页复制下来的本地拼多多 H5 代码
+直接从网页复制下来的本地拼多多 H5 [Demo 演示代码](https://github.com/shengshuqiang/shuqiang-web-playground/tree/main/pddwyb)
 
 # iconfontDemo
 
-从0到1设计一套“书强”体甲骨文实践
+[从 0 到 1 设计一套“书强”体甲骨文字体实践](https://juejin.cn/post/7178640448464879677) 文章 [Demo 演示代码](https://github.com/shengshuqiang/shuqiang-web-playground/tree/main/iconfontDemo)
 
 # 常用Whistle Rules命令
 
